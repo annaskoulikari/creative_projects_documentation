@@ -1,2 +1,2 @@
-# creative_projects_documentation
+# Anna Skoulikari Creative Projects Documentation (Work In Progress)
 Documentation for Creative Projects by Anna Skoulikari 
