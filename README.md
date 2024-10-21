@@ -21,6 +21,8 @@ I wrote the script which used a cooking metaphor, bought the props, and we got t
 
 ### Book - [Learning Git: A Hands-On and Visual Guide to the Basics of Git](https://www.amazon.com/Learning-Git-Hands-Visual-Basics/dp/1098133919) 
 
+For two years, I worked on writing a book teaching the basics of Git using the colors of the rainbow, visuals, hands-on exericses, and storytelling. 
+
 <img src="./images/2023_03_10_learning_git_cover.jpg" alt="Cover of Learning Git: A Hands-On and Visual Guide to the Basics of Git" width="300"/>
 
 ## 2020 
