@@ -37,7 +37,7 @@ I approach all of my job searches like mini creative projects. Since I explore c
 
 In my web developer job search journey, I chose to use the power of the video medium and [made a video showcasing the project I had built whle attending a coding bootcamp](https://www.youtube.com/watch?v=iWesF6zGkWo).
 
-<img src="./images/2024_08_git_online_course.png" alt="Coding bootcamp project vide on YouTube" width="500"/>
+<img src="./images/2019_03_web_development_video.png" alt="Coding bootcamp project vide on YouTube" width="500"/>
 
 ## 2018 UX designer job search journey 
 
