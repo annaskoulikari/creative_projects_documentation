@@ -1,9 +1,10 @@
 # Anna Skoulikari Creative Projects Documentation (Work In Progress)
-Documentation for Creative Projects by Anna Skoulikari 
 
-The below documentation is a curated list of creative projects by me, Anna Skoulikari, in reverse chronological order. This is a constant work in progress and updated as I work on new creative projects. 
+Just like [Seth Godin, I have always seen my life as a series of creative projects](https://seths.blog/2014/07/thirty-years-of-projects/).
 
-Just like [Seth Godin, I have always seen my life as a series of creative projects](https://seths.blog/2014/07/thirty-years-of-projects/). Below is brief documentation of the main projects I've done so far. 
+
+Here is a curated list of creative projects by me, Anna Skoulikari, in reverse chronological order which will be updated as I go along. 
+
 
 > For broken links or any other feedback, reach out at annaskoulikari@gmail.com ☀️
 
