@@ -43,4 +43,4 @@ In my web developer job search journey, I chose to use the power of the video me
 
 My UX job search journey took place in London after I had completed a 3 month intensive UX design bootcamp. My creative problem was how to stand out amongst tons of other brilliant junior UX designers in London. So I decided to create [a video CV](https://youtu.be/HkIIrJKXZl0) rather than just relying on a regular A4 PDF CV. 
 
-<img src="./images/2019_03_web_development_video.png" alt="Coding bootcamp project vide on YouTube" width="500"/>
+<img src="./images/2018_02_ux_design_video_cv.png" alt="Coding bootcamp project vide on YouTube" width="500"/>
