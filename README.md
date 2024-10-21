@@ -43,6 +43,6 @@ In my web developer job search journey, I chose to use the power of the video me
 
 ## 2018 UX designer job search journey 
 
-My UX job search journey took place in London after I had completed a 3 month intensive UX design bootcamp. My creative problem was how to stand out amongst tons of other brilliant junior UX designers in London. So I decided to create [a video CV](https://youtu.be/HkIIrJKXZl0) rather than just relying on a regular A4 PDF CV. 
+My UX job search journey took place in London after I had completed a 3 month intensive UX design bootcamp. My creative problem was how to stand out amongst tons of other brilliant junior UX designers in London. So I decided to create [a video CV](https://youtu.be/HkIIrJKXZl0) rather than just relying on a regular A4 PDF CV. And I wrote in-depth case studies for the three ([1](https://medium.com/anna-skoulikari/project-1-deki-and-the-mobile-app-in-depth-case-study-c7bca4eca76c) [2](https://medium.com/anna-skoulikari/project-2-palmersville-training-and-the-responsive-website-in-depth-case-study-62adc1704d0d) [3](https://medium.com/anna-skoulikari/project-3-funky-spaces-and-the-website-optimisation-in-depth-case-study-6c0296be9f80)) hands-on projects I had worked on while at the bootcamp and posted them on Medium
 
 <img src="./images/2018_02_ux_design_video_cv.png" alt="Coding bootcamp project vide on YouTube" width="500"/>
