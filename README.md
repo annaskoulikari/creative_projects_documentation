@@ -29,8 +29,13 @@ I wrote the script which used a cooking metaphor, bought the props, and we got t
 
 An online course teaching the basics of Git. It's initial home was the Udemy (an online course platform) and in August of 2024 it moved to the O'Reilly online learning platform. 
 
+<img src="./images/2024_08_git_online_course.png" alt="Online course page on the O'Reilly online learning platform" width="500"/>
+
 ## 2019 Web developer job search journey 
 
-I approach all of my job searches like mini creative projects. And I have a lot of job search journeys because I explore careers like an anthropologist. 
+I approach all of my job searches like mini creative projects. Since I explore careers like an anthropologist, I have a lot of job search journeys. 
 
-In my web developer job search journey, I chose to use the power of the video medium to communicate the skills I had gained from the coding bootcamp I attended. 
+In my web developer job search journey, I chose to use the power of the video medium and [made a video showcasing the project I had built whle attending a coding bootcamp](https://www.youtube.com/watch?v=iWesF6zGkWo).
+
+<img src="./images/2024_08_git_online_course.png" alt="Coding bootcamp project vide on YouTube" width="500"/>
+
